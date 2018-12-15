@@ -1,2 +1,2 @@
-Require-Bundle: org.mockito.mockito-core, org.objenesis, org.eclipse.jdt.core
+Require-Bundle: org.mockito.mockito-core, org.eclipse.jdt.core
 Import-Package: org.eclipse.jdt.core
